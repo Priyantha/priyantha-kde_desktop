@@ -9,11 +9,8 @@
 # Copyright 2015 Priyantha Bleeker.
 #
 class kde_desktop::packages {
-	
-	package { '$desktop_packages':
-	ensure  => "installed",
-      }
 
 	$desktop_packages = [ "kde-workspace", "gdm" ]
+	package { $desktop_packages: ensure => "installed" }	
+      }
 
-}
