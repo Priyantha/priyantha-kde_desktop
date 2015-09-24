@@ -41,7 +41,7 @@ class kde_desktop {
 # This will ensure that we are using the Graphical Environment on the machine using this module
 file { '/etc/systemd/system/default.target':
   ensure => link,
-  target => '/etc/systemd/system/default.target',
+  target => '/lib/systemd/system/runlevel5.target',
 }
 
 }
