@@ -29,13 +29,13 @@
 #
 # === Authors
 #
-# Author Name <author@domain.com>
+# Author Name <priyantha.bleeker@gmail.com>
 #
 # === Copyright
 #
-# Copyright 2015 Your name here, unless otherwise noted.
+# Copyright 2015 Priyantha Bleeker.
 #
 class kde_desktop {
-
+	include kde_desktop::packages
 
 }
