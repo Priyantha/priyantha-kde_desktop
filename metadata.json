@@ -1,0 +1,14 @@
+{
+  "name": "priyantha-kde_desktop",
+  "version": "0.1.0",
+  "author": "Priyantha Bleeker <priyantha.bleeker@gmail.com>",
+  "summary": "This module is to ensure the KDE environment will be installed with all it's dependencies",
+  "license": "Apache 2.0",
+  "source": "https://github.com/Priyantha/priyantha-kde_desktop",
+  "project_page": "https://github.com/Priyantha/priyantha-kde_desktop",
+  "issues_url": "https://github.com/Priyantha/priyantha-kde_desktop/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
