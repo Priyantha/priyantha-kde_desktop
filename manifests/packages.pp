@@ -10,7 +10,7 @@
 #
 class kde_desktop::packages {
 
-	$desktop_packages = [ "kde-workspace", "gdm" ]
+	$desktop_packages = [ "kde-workspace", "gdm", "xvattr", "xorg-x11-server-Xorg", "xorg-x11-drivers", "spice-vdagent", "plymouth-system-theme", "glx-utils", "kde-base-artwork", "kdeadmin", "kdeutils-minimal" ]
 	package { $desktop_packages: ensure => "installed" }	
       }
 
