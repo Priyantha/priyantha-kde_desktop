@@ -4,7 +4,7 @@
   "LICENSE": "fa818a259cbed7ce8bc2a22d35a464fc",
   "README.md": "134409165f1d8e2874656b170b5ef284",
   "Rakefile": "20b80e526e351a74df2001f504e756d2",
-  "manifests/init.pp": "ae3fb01672a279d1860350ec58df99e9",
+  "manifests/init.pp": "a1cffaf758249453632f2b8596fcbea8",
   "manifests/packages.pp": "90a0e8ce0163e798825753561f994105",
   "metadata.json": "71746d5ff9bc6172d40b6ae7814d56da",
   "spec/classes/init_spec.rb": "d4682055447a27acc89bac9a8e2d2725",
