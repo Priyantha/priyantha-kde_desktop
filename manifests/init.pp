@@ -38,4 +38,10 @@
 class kde_desktop {
 	include kde_desktop::packages
 
+# This will ensure that we are using the Graphical Environment on the machine using this module
+file { '/etc/systemd/system/default.target':
+  ensure => link,
+  target => '/etc/systemd/system/default.target',
+}
+
 }
