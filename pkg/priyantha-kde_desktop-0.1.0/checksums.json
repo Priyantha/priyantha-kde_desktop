@@ -1,0 +1,12 @@
+{
+  "Gemfile": "dbc1a15e3a264c03878028240cfc5d89",
+  "LICENSE": "fa818a259cbed7ce8bc2a22d35a464fc",
+  "README.md": "134409165f1d8e2874656b170b5ef284",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "manifests/init.pp": "69cfb2e2beb308160c5d0d45d050da11",
+  "manifests/packages.pp": "45099afb8187341b1934334c5d894db7",
+  "metadata.json": "49bbe32535942752ad98ba323d776899",
+  "spec/classes/init_spec.rb": "d4682055447a27acc89bac9a8e2d2725",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "tests/init.pp": "1014e4a66e1a604af2b2b37891359d29"
+}
